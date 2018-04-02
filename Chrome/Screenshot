@@ -1,0 +1,13 @@
+如何使用 Chrome 浏览器自带截屏？
+方法一（鼠标拉框选择截图）
+1、ctrl+shift+c
+2、按住ctrl 后拖动鼠标
+
+方法二
+1、F12 或 Ctrl + Shift + I 打开开发者工具
+2、在任意tab上按 Ctrl + Shift + P 
+3、在弹出的输入框里输入“capture”
+4、选择以下任意
+              1）“capture full size screenshot”【整个网页】
+              2）“capture node screenshot”【节点网页】
+              3）“capture screenshot”【当前屏幕】
