@@ -4,7 +4,7 @@
 1、ctrl+shift+c
 2、按住 ctrl 后拖动鼠标
 
-方法二
+方法二(必须要模拟一款移动设备才能截图)
 1、F12 或 Ctrl + Shift + I 打开开发者工具
 2、在任意 tab 上按 Ctrl + Shift + P 
 3、在弹出的输入框里输入“capture”
@@ -12,3 +12,5 @@
               1）“capture full size screenshot”【整个网页】
               2）“capture node screenshot”【节点网页】
               3）“capture screenshot”【当前屏幕】
+              
+补充：在 Mac 下打开开发者工具的快捷键是 Cmd + Opt + I；Ctrl + Shift + P 对应的是 Cmd + Shift + P。
